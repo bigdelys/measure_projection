@@ -1,0 +1,25 @@
+Measure Projection Toolbox -  Copyright ©2011 Nima Bigdely-Shamlo (SCCN, INC, UCSD).
+Commercial re-use of any part of this toolbox without permission is prohibited
+
+1) You must not remove or alter any copyright or other proprietary notices in the software.
+
+2) Permission is granted to use this software without charge for non-commercial research purposes only.
+
+3) You may publish papers and books using results produced using software provided by this site provided that you reference these appropriate citations:
+
+	 Bigdely-Shamlo N., Mullen T.,  Kreutz-Delgado K., Makeig S., "Measure Projection Analysis: A Probabilistic Approach to EEG Independent Component Source Comparison and Multi-Subject Inference," In preparation.
+
+if you used anatomical label information provided by the toolbox, cite:
+
+	Shattuck DW, Mirza M, Adisetiyo V, Hojatkashani C, Salamon G, Narr KL, Poldrack RA, Bilder RM, Toga AW, Construction of a 3D Probabilistic Atlas of Human Cortical Structures, NeuroImage (2007), doi: 10.1016/j.neuroimage.2007.09.031 
+
+
+4) Software has not been reviewed or approved by the Food and Drug Administration, and is for non-clinical, IRB-approved Research Use Only. In no event shall data or images generated through the use of the Software be used in the provision of patient care.
+
+5) THE SOFTWARE IS PROVIDED "AS IS," AND THE UNIVERSITY OF CALIFORNIA AND ITS COLLABORATORS DO NOT MAKE ANY WARRANTY, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, NOR DO THEY ASSUME ANY LIABILITY OR RESPONSIBILITY FOR THE USE OF THIS SOFTWARE.
+
+6) This software is for research purposes only and has not been approved for clinical use.
+
+7) This software communicates with a central server and checks for newer versions of itself that may be available for download. These online interactions may contain non-personally-identifiable information about the user, including but not limited to, (IP address, Matlab version, OS type and current toolbox version) that is sent to our servers. In no case any personally identifiable information (e.g. name, address...) about the user or study participants is sent to our servers. You may opt-out of automatic version checking by executing the code below before launching EEGLAB:
+
+	global MPT_UPDATE_CHECK_ALLOWED; MPT_UPDATE_CHECK_ALLOWED = false;

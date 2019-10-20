@@ -1,0 +1,5 @@
+classdef guiOption
+    properties
+        
+    end;
+end

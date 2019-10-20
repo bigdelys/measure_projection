@@ -1,0 +1,13 @@
+# use regexp syntax.
+syntax: regexp
+
+# ignore backup folder under root
+^/backup/
+
+#ignore stuff inside the backup folder
+^/backup/$
+
+syntax: glob
+
+*~
+*.asv

@@ -1,0 +1,10 @@
+A = rand(4754,1024);
+B = rand(6800,1024);
+
+tic
+D = pdist2(A,B,'euclidean');
+toc
+
+tic
+DD = sqrt( bsxfun(@plus,sum(A.^2,2),sum(B.^2,2)') - 2*(A*B') );
+toc

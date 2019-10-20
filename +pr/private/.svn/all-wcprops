@@ -1,0 +1,1895 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1534/trunk/private
+END
+ReadHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/883/trunk/private/ReadHeader.m
+END
+nan_std.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/nan_std.m
+END
+prepare_design.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/prepare_design.m
+END
+lmoutr.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/lmoutr.mexa64
+END
+head_surf.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/head_surf.m
+END
+grid2transform.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/883/trunk/private/grid2transform.m
+END
+smartinput.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/smartinput.m
+END
+uidisplaytext.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/uidisplaytext.m
+END
+specest_hilbert.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1180/trunk/private/specest_hilbert.m
+END
+splint_gh.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/242/trunk/private/splint_gh.mexw32
+END
+projecttri.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/projecttri.m
+END
+meg_forward.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/946/trunk/forward/private/meg_forward.m
+END
+spearman_diff.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/spearman_diff.m
+END
+read_besa_pdg.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/read_besa_pdg.m
+END
+volplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1360/trunk/private/volplot.m
+END
+globalrescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/globalrescale.m
+END
+avw_img_write.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/883/trunk/fileio/private/avw_img_write.m
+END
+specest_mtmconvol.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1530/trunk/private/specest_mtmconvol.m
+END
+read_neuralynx_ds.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/988/trunk/fileio/private/read_neuralynx_ds.m
+END
+tal2mni.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1105/trunk/private/tal2mni.m
+END
+freq2timelock.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/freq2timelock.m
+END
+read_neuralynx_bin.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_bin.m
+END
+preproc.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1177/trunk/private/preproc.m
+END
+patchsvd.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/patchsvd.m
+END
+read_besa_avr.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/read_besa_avr.m
+END
+solid_angle.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1012/trunk/private/solid_angle.mexw64
+END
+splint_gh.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/242/trunk/private/splint_gh.mexmaci
+END
+ltrisect.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/trunk/private/ltrisect.c
+END
+val2nearestchan.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/952/trunk/private/val2nearestchan.m
+END
+openedf.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/883/trunk/private/openedf.m
+END
+prepare_resampled_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/952/trunk/private/prepare_resampled_data.m
+END
+plgndr.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1012/trunk/private/plgndr.mexw64
+END
+plinproj.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/plinproj.mexw32
+END
+avw_hdr_make.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/883/trunk/fileio/private/avw_hdr_make.m
+END
+atlas_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/atlas_init.m
+END
+cancorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/cancorr.m
+END
+ltrisect.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/ltrisect.m
+END
+icosahedron642.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/icosahedron642.m
+END
+wizard_base.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/wizard_base.m
+END
+specest_mvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/824/trunk/private/specest_mvar.m
+END
+ctf2grad.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1058/trunk/fileio/private/ctf2grad.m
+END
+ptriproj.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/865/trunk/forward/private/ptriproj.mexmaci
+END
+ltrisect.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/ltrisect.mexglx
+END
+find_vertex_neighbours.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/883/trunk/private/find_vertex_neighbours.m
+END
+surfaceorientation.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/952/trunk/private/surfaceorientation.m
+END
+continuous_ns.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/883/trunk/private/continuous_ns.m
+END
+ptriproj.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1012/trunk/private/ptriproj.mexw64
+END
+ltrisect.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/ltrisect.mexmac
+END
+nan_mean.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/nan_mean.m
+END
+nex_cont.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/nex_cont.m
+END
+warp_apply.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/945/trunk/fileio/private/warp_apply.m
+END
+translate_channel_list.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/883/trunk/private/translate_channel_list.m
+END
+define_biff.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/define_biff.m
+END
+bandstopfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/bandstopfilter.m
+END
+read_besa_mul.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/read_besa_mul.m
+END
+parameterselection.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/952/trunk/private/parameterselection.m
+END
+lbex.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/883/trunk/private/lbex.m
+END
+neuralynx_getheader.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/945/trunk/fileio/private/neuralynx_getheader.m
+END
+ksphere.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/ksphere.m
+END
+denoise_artifact.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/952/trunk/private/denoise_artifact.m
+END
+msphere.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/msphere.m
+END
+specest_mtmwelch.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/822/trunk/private/specest_mtmwelch.m
+END
+timelock2freq.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/timelock2freq.m
+END
+routlm.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/242/trunk/private/routlm.mexmaci
+END
+traditional.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/traditional.m
+END
+readmarkerfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/883/trunk/fileio/private/readmarkerfile.m
+END
+find_mesh_edge.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/find_mesh_edge.m
+END
+megplanar_sincos.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/952/trunk/private/megplanar_sincos.m
+END
+nanvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/nanvar.m
+END
+splint_gh.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1012/trunk/private/splint_gh.mexw64
+END
+icosahedron162.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/icosahedron162.m
+END
+megplanar_fitplane.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/952/trunk/private/megplanar_fitplane.m
+END
+routlm.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/242/trunk/private/routlm.mexglx
+END
+triplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/triplot.m
+END
+project_elec.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/946/trunk/forward/private/project_elec.m
+END
+routlm.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/242/trunk/private/routlm.mexmac
+END
+specest_nanfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1159/trunk/private/specest_nanfft.m
+END
+read_neuralynx_tsl.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_tsl.m
+END
+timestamp_neuralynx.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/945/trunk/fileio/private/timestamp_neuralynx.m
+END
+fdr.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/952/trunk/private/fdr.m
+END
+artifact_viewer.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1434/trunk/private/artifact_viewer.m
+END
+convert_event.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/convert_event.m
+END
+bounding_mesh.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/946/trunk/forward/private/bounding_mesh.m
+END
+read_besa_swf.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/read_besa_swf.m
+END
+fif2grad.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1412/trunk/fileio/private/fif2grad.m
+END
+nanstd.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/nanstd.m
+END
+solid_angle.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/865/trunk/forward/private/solid_angle.mexa64
+END
+plinproj.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/661/trunk/private/plinproj.mexw64
+END
+filetype_check_uri.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1238/trunk/fileio/private/filetype_check_uri.m
+END
+read_labview_dtlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/945/trunk/fileio/private/read_labview_dtlg.m
+END
+plgndr.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/plgndr.mexa64
+END
+nan_sum.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/883/trunk/private/nan_sum.m
+END
+find_nearest.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/952/trunk/private/find_nearest.m
+END
+write_neuralynx_ncs.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/945/trunk/fileio/private/write_neuralynx_ncs.m
+END
+savevar.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1083/trunk/private/savevar.m
+END
+comp2timelock.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/comp2timelock.m
+END
+lmoutr.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/865/trunk/forward/private/lmoutr.mexmaci
+END
+sensortype.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/sensortype.m
+END
+openbdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/883/trunk/fileio/private/openbdf.m
+END
+specest_wltconvol.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1532/trunk/private/specest_wltconvol.m
+END
+binomialprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/952/trunk/private/binomialprob.m
+END
+warp_optim.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/warp_optim.m
+END
+ptriproj.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/865/trunk/forward/private/ptriproj.mexa64
+END
+ltrisect.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/ltrisect.mexw32
+END
+time2offset.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/time2offset.m
+END
+scale.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/952/trunk/private/scale.m
+END
+readbdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/883/trunk/fileio/private/readbdf.m
+END
+read_neuralynx_nev.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_nev.m
+END
+lmoutr.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/lmoutr.mexglx
+END
+svdfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/svdfft.m
+END
+prepare_headmodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/952/trunk/private/prepare_headmodel.m
+END
+lmoutr.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/lmoutr.mexmac
+END
+randstatprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/952/trunk/private/randstatprob.m
+END
+transform2grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/883/trunk/private/transform2grid.m
+END
+routlm.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/trunk/private/routlm.c
+END
+sel50p.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/883/trunk/private/sel50p.m
+END
+expand_orthogonal.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/952/trunk/private/expand_orthogonal.m
+END
+clusterstat.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1014/trunk/private/clusterstat.m
+END
+triangulate_seg.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/952/trunk/private/triangulate_seg.m
+END
+splint_gh.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/trunk/private/splint_gh.c
+END
+write_brainvision_eeg.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1350/trunk/fileio/private/write_brainvision_eeg.m
+END
+notchfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/notchfilter.m
+END
+routlm.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/routlm.m
+END
+spearman_binned.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/952/trunk/private/spearman_binned.m
+END
+neuralynx_numrecords.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/945/trunk/fileio/private/neuralynx_numrecords.m
+END
+splint_gh.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/splint_gh.m
+END
+arrow.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/883/trunk/private/arrow.m
+END
+lapcal.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/lapcal.m
+END
+hline.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/883/trunk/private/hline.m
+END
+splint_gh.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/242/trunk/private/splint_gh.mexa64
+END
+inputlabel2outputlabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/952/trunk/private/inputlabel2outputlabel.m
+END
+read_neuralynx_ttl.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_ttl.m
+END
+solid_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/solid_angle.c
+END
+headsurface.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/headsurface.m
+END
+avgref.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/946/trunk/forward/private/avgref.m
+END
+mollify.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/mollify.m
+END
+routlm.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/242/trunk/private/routlm.mexw32
+END
+transfer_elec.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/946/trunk/forward/private/transfer_elec.m
+END
+tcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/883/trunk/private/tcdf.m
+END
+procrustes_trans.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1195/trunk/private/procrustes_trans.m
+END
+solid_angle.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/946/trunk/forward/private/solid_angle.m
+END
+warp_error.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/warp_error.m
+END
+prepare_timefreq_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1189/trunk/private/prepare_timefreq_data.m
+END
+write_plexon_nex.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/945/trunk/fileio/private/write_plexon_nex.m
+END
+find_triangle_neighbours.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/952/trunk/private/find_triangle_neighbours.m
+END
+statistics_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1087/trunk/private/statistics_wrapper.m
+END
+LoadSpikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/883/trunk/private/LoadSpikes.m
+END
+icosahedron.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/icosahedron.m
+END
+ama2vol.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/945/trunk/fileio/private/ama2vol.m
+END
+plinproj.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/plinproj.mexa64
+END
+raw2data.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/raw2data.m
+END
+solid_angle.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/865/trunk/forward/private/solid_angle.mexmaci
+END
+neuralynx_timestamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/945/trunk/fileio/private/neuralynx_timestamp.m
+END
+refine.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/refine.m
+END
+lmoutr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/865/trunk/forward/private/lmoutr.c
+END
+neuralynx_crc.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/neuralynx_crc.m
+END
+littleendian.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/945/trunk/fileio/private/littleendian.m
+END
+rigidbody.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/rigidbody.m
+END
+nanmean.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/nanmean.m
+END
+ltrisect.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/242/trunk/private/ltrisect.mexmaci
+END
+planarchannelset.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1261/trunk/private/planarchannelset.m
+END
+lmoutr.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/946/trunk/forward/private/lmoutr.m
+END
+plinproj.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/242/trunk/private/plinproj.mexmaci
+END
+interp_ungridded.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/952/trunk/private/interp_ungridded.m
+END
+browse_movieplotER.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/883/trunk/private/browse_movieplotER.m
+END
+ltrisect.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/661/trunk/private/ltrisect.mexw64
+END
+browse_topoplotER.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/883/trunk/private/browse_topoplotER.m
+END
+guidelines.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1423/trunk/private/guidelines.m
+END
+peakdetect2.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/peakdetect2.m
+END
+triangle4pt.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/946/trunk/forward/private/triangle4pt.m
+END
+loadama.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/945/trunk/fileio/private/loadama.m
+END
+ccabss.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/883/trunk/private/ccabss.m
+END
+prepare_freq_matrices.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/952/trunk/private/prepare_freq_matrices.m
+END
+resampledesign.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/resampledesign.m
+END
+dist.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/952/trunk/private/dist.m
+END
+icosahedron42.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/icosahedron42.m
+END
+write_neuralynx_nse.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/952/trunk/private/write_neuralynx_nse.m
+END
+retriangulate.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1362/trunk/private/retriangulate.m
+END
+meg_ini.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/946/trunk/forward/private/meg_ini.m
+END
+browse_topoplotVAR.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/883/trunk/private/browse_topoplotVAR.m
+END
+lmoutr.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/lmoutr.mexw32
+END
+prepare_mesh_headshape.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/952/trunk/private/prepare_mesh_headshape.m
+END
+plgndr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/865/trunk/forward/private/plgndr.c
+END
+read_24bit.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/661/trunk/private/read_24bit.mexw64
+END
+inifile.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/883/trunk/private/inifile.m
+END
+fixinside.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/fixinside.m
+END
+read_neuralynx_ncs.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_ncs.m
+END
+plinproj.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/trunk/private/plinproj.c
+END
+fixdipole.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/946/trunk/forward/private/fixdipole.m
+END
+filetype_check_header.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1238/trunk/fileio/private/filetype_check_header.m
+END
+plgndr.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/946/trunk/forward/private/plgndr.m
+END
+align_ctf2spm.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/883/trunk/private/align_ctf2spm.m
+END
+shiftpredict.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/952/trunk/private/shiftpredict.m
+END
+nex_marker.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/nex_marker.m
+END
+plinproj.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/plinproj.m
+END
+lowpassfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/lowpassfilter.m
+END
+browse_multiplotER.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/883/trunk/private/browse_multiplotER.m
+END
+nansum.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/nansum.m
+END
+select_channel_list.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/952/trunk/private/select_channel_list.m
+END
+loreta_ind.mat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1/trunk/private/loreta_ind.mat
+END
+nex_info.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/nex_info.m
+END
+rejectvisual_summary.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/905/trunk/private/rejectvisual_summary.m
+END
+read_brainvision_marker.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/945/trunk/fileio/private/read_brainvision_marker.m
+END
+closedf.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/883/trunk/private/closedf.m
+END
+bigendian.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/945/trunk/fileio/private/bigendian.m
+END
+routlm.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/661/trunk/private/routlm.mexw64
+END
+specest_mtmfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1533/trunk/private/specest_mtmfft.m
+END
+avw_hdr_read.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/883/trunk/fileio/private/avw_hdr_read.m
+END
+fixdimord.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1018/trunk/private/fixdimord.m
+END
+mergeconfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/883/trunk/private/mergeconfig.m
+END
+solid_angle.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/865/trunk/forward/private/solid_angle.mexglx
+END
+dimnum.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/dimnum.m
+END
+dataset2files.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/dataset2files.m
+END
+legs.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/946/trunk/forward/private/legs.m
+END
+elproj.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/946/trunk/forward/private/elproj.m
+END
+find_inside_vol.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1074/trunk/forward/private/find_inside_vol.m
+END
+range.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/883/trunk/private/range.m
+END
+peakdetect3.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/peakdetect3.m
+END
+crosshair.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/crosshair.m
+END
+plgndr.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/plgndr.mexglx
+END
+solid_angle.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/865/trunk/forward/private/solid_angle.mexmac
+END
+ptriproj.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/865/trunk/forward/private/ptriproj.c
+END
+read_neuralynx_dma.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_dma.m
+END
+binocdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/883/trunk/private/binocdf.m
+END
+plgndr.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/plgndr.mexmac
+END
+inf_medium_leadfield.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/946/trunk/forward/private/inf_medium_leadfield.m
+END
+swapmemfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/swapmemfile.m
+END
+ptriproj.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/946/trunk/forward/private/ptriproj.m
+END
+vline.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/883/trunk/private/vline.m
+END
+ptriproj.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/865/trunk/forward/private/ptriproj.mexglx
+END
+spikesort.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/spikesort.m
+END
+magnetic_dipole.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/946/trunk/forward/private/magnetic_dipole.m
+END
+align_ijk2xyz.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/883/trunk/private/align_ijk2xyz.m
+END
+randsample.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/randsample.m
+END
+nex_wf.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/nex_wf.m
+END
+prepare_mesh_segmentation.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1127/trunk/private/prepare_mesh_segmentation.m
+END
+offset2time.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/offset2time.m
+END
+rv.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/952/trunk/private/rv.m
+END
+ptriproj.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/865/trunk/forward/private/ptriproj.mexmac
+END
+loadvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1358/trunk/private/loadvar.m
+END
+timestamp_plexon.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/945/trunk/fileio/private/timestamp_plexon.m
+END
+channelposition.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1534/trunk/private/channelposition.m
+END
+write_ctf_shm.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/write_ctf_shm.m
+END
+freq2cumtapcnt.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/883/trunk/private/freq2cumtapcnt.m
+END
+read_neuralynx_tsh.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_tsh.m
+END
+ltrisect.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/ltrisect.mexa64
+END
+read_neuralynx_nst.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_nst.m
+END
+data2raw.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/data2raw.m
+END
+matlabversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/private/matlabversion.m
+END
+lmoutr.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1012/trunk/private/lmoutr.mexw64
+END
+geometry.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/865/trunk/forward/private/geometry.c
+END
+inside_contour.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/883/trunk/private/inside_contour.m
+END
+megplanar_orig.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/megplanar_orig.m
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/865/trunk/forward/private/geometry.h
+END
+cstructdecode.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/cstructdecode.m
+END
+atlas_lookup.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/952/trunk/private/atlas_lookup.m
+END
+translate.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/translate.m
+END
+rotate.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/rotate.m
+END
+nanstandardise.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/nanstandardise.m
+END
+fourier2crsspctrm.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/952/trunk/private/fourier2crsspctrm.m
+END
+prepare_dipole_grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1127/trunk/private/prepare_dipole_grid.m
+END
+splint_gh.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/242/trunk/private/splint_gh.mexglx
+END
+nex_ts.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/nex_ts.m
+END
+standardise.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/standardise.m
+END
+fwer.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/952/trunk/private/fwer.m
+END
+read_neuralynx_nts.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_nts.m
+END
+select2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/select2d.m
+END
+splint_gh.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/242/trunk/private/splint_gh.mexmac
+END
+mni2tal.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1105/trunk/private/mni2tal.m
+END
+nimh2grad.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/nimh2grad.m
+END
+atlas_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/atlas_mask.m
+END
+dftfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/dftfilter.m
+END
+read_neuralynx_nse.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_nse.m
+END
+rejectvisual_channel.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1427/trunk/private/rejectvisual_channel.m
+END
+sine_taper.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/952/trunk/private/sine_taper.m
+END
+routlm.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/242/trunk/private/routlm.mexa64
+END
+rejectvisual_trial.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/883/trunk/private/rejectvisual_trial.m
+END
+bti2grad.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1058/trunk/fileio/private/bti2grad.m
+END
+blc.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/952/trunk/private/blc.m
+END
+volumewrite_spm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1098/trunk/private/volumewrite_spm.m
+END
+clusterrandstatistics.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1362/trunk/private/clusterrandstatistics.m
+END
+avw_hdr_write.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/883/trunk/fileio/private/avw_hdr_write.m
+END
+nex_int.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/952/trunk/private/nex_int.m
+END
+plinproj.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/plinproj.mexglx
+END
+appendevent.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/945/trunk/fileio/private/appendevent.m
+END
+splint.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/952/trunk/private/splint.m
+END
+solid_angle.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/865/trunk/forward/private/solid_angle.mexw32
+END
+filetype_check_extension.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1238/trunk/fileio/private/filetype_check_extension.m
+END
+plinproj.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/242/trunk/private/plinproj.mexmac
+END
+normals.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/946/trunk/forward/private/normals.m
+END
+highpassfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/highpassfilter.m
+END
+icosahedron2562.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/952/trunk/private/icosahedron2562.m
+END
+plgndr.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/865/trunk/forward/private/plgndr.mexmaci
+END
+dimassign.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/952/trunk/private/dimassign.m
+END
+plgndr.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/865/trunk/forward/private/plgndr.mexw32
+END
+tinv.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/952/trunk/private/tinv.m
+END
+specest_tfr.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1181/trunk/private/specest_tfr.m
+END
+prepare_brain_surface.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/952/trunk/private/prepare_brain_surface.m
+END
+findcluster.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/findcluster.m
+END
+avw_img_read.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/883/trunk/fileio/private/avw_img_read.m
+END
+fitsphere.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/946/trunk/forward/private/fitsphere.m
+END
+headcoordinates.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/952/trunk/private/headcoordinates.m
+END
+sphfit.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/946/trunk/forward/private/sphfit.m
+END
+read_besa_tfc.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/read_besa_tfc.m
+END
+bandpassfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/bandpassfilter.m
+END
+dimindex.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/952/trunk/private/dimindex.m
+END
+ptriproj.mexw32
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/865/trunk/forward/private/ptriproj.mexw32
+END
+leadsphere_all.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/946/trunk/forward/private/leadsphere_all.m
+END
+read_neuralynx_ntt.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/945/trunk/fileio/private/read_neuralynx_ntt.m
+END
+prepare_mesh_manual.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1431/trunk/private/prepare_mesh_manual.m
+END
+read_besa_src.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/945/trunk/fileio/private/read_besa_src.m
+END
+constructplanargrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/952/trunk/private/constructplanargrad.m
+END
+alpha_taper.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/952/trunk/private/alpha_taper.m
+END
+binopdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/883/trunk/private/binopdf.m
+END
+interp_gridded.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/952/trunk/private/interp_gridded.m
+END
