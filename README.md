@@ -26,6 +26,7 @@ The figure below shows the comparison between IC clustering and Measure Projecti
   <img src="/Clustering_and_mpa_flowchart.png" width="70%">
 </div>
 
+ 
 
 
 For more information please visit the toolbox page here: https://sccn.ucsd.edu/wiki/MPT
