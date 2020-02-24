@@ -11,12 +11,12 @@ Measure Projection reference paper was published in NeuroImage and made it to th
   <img src="/Neuro_image_cover_png_small.png" width="50%">
 </div>
 
-Here is the reference paper:
+Here is the reference paper [(download preprint)](http://sccn.ucsd.edu/~nima/downloads/mpa_paper_preprint.pdf):
 
 ```
  Bigdely-Shamlo, Nima, Mullen, Tim, Kreutz-Delgado,  Kenneth, Makeig, Scott, 
  Measure Projection Analysis: A Probabilistic  Approach  to EEG Source Comparison and Multi-Subject Inference,
- NeuroImage (2013), Vol. 72, pp. 287-303, doi:   10.1016/j.neuroimage.2013.01.04 [(download preprint)](http://sccn.ucsd.edu/~nima/downloads/mpa_paper_preprint.pdf)
+ NeuroImage (2013), Vol. 72, pp. 287-303, doi:   10.1016/j.neuroimage.2013.01.04 
 ```
 
 The figure below shows the comparison between IC clustering and Measure Projection:
@@ -27,4 +27,5 @@ The figure below shows the comparison between IC clustering and Measure Projecti
 </div>
 
 
-For more information please visit the toolbox page here.
+
+For more information please visit the toolbox page here: https://sccn.ucsd.edu/wiki/MPT
