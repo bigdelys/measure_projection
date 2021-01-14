@@ -2,6 +2,7 @@
   <img src="/Ersp_measure_projection_and_domains_for_wiki.png" width="70%">
 </div>
 
+**Important note:** This is a legacy plugin that is no longer compatible with EEGLAB. From the EEGLAB plugin manager, use the *mp_clustering* plugin instead for clustering components, and the *NIMA* plugin for display.
 
 Measure Projection Toolbox (MPT) is an open source Matlab toolbox for probabilistic multi-subject EEG independent component source comparison and inference (an alternative to IC clustering). It was developed by Nima Bigdely-Shamlo, PhD at Swartz Center for Computational Neuroscience, UCSD with help from Özgür Yiğit Balkan, PhD.
 
